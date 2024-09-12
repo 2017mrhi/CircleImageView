@@ -1,4 +1,4 @@
-CircleImageView
+한국어로...둥근 이미지뷰
 ===============
 
 A fast circular ImageView perfect for profile images. This is based on [RoundedImageView from Vince Mi](https://github.com/vinc3m1/RoundedImageView) which itself is based on techniques recommended by [Romain Guy](https://twitter.com/romainguy).
